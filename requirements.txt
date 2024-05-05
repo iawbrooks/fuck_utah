@@ -1,4 +1,4 @@
-
+selenium-recaptcha-solver
 selenium
 webdriver-manager
 Faker
